@@ -1,0 +1,15 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+artifacts/
+android/local.properties
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.apk
+*.aab
+*.iml
+.idea/
